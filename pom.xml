@@ -15,6 +15,7 @@
 	<description>StyleWeb.ro api project</description>
 	<properties>
 		<java.version>11</java.version>
+		<packaging>war</packaging>
 	</properties>
 	<dependencies>
 		<dependency>
